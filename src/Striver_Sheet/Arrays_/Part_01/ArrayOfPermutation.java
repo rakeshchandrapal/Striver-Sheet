@@ -1,4 +1,4 @@
-package Arrays_.Part_01;
+package Striver_Sheet.Arrays_.Part_01;
 
 import java.util.Arrays;
 

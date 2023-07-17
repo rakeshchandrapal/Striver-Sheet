@@ -1,4 +1,4 @@
-package Arrays_.Part_02;
+package Striver_Sheet.Arrays_.Part_02;
 
 public class FindDuplicates {
 

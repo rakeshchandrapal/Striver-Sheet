@@ -1,4 +1,4 @@
-package Arrays_.Part_02;
+package Striver_Sheet.Arrays_.Part_02;
 import java.util.*;
 
 public class Merge_Interval {
